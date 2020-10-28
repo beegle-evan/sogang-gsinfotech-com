@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322600633232",
+    "firebase_url": "https://sogang-gsinfotech-com.firebaseio.com",
+    "project_id": "sogang-gsinfotech-com",
+    "storage_bucket": "sogang-gsinfotech-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322600633232:android:04ccae2d4534340e1ba915",
+        "android_client_info": {
+          "package_name": "com.sogang.sogang_gsinfotech_com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322600633232-b877dq1n8nq7opc1i5l4cjfsm4jd2q1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sogang.sogang_gsinfotech_com",
+            "certificate_hash": "ebbf030d67979b973209eba7477fec8ba5db38a5"
+          }
+        },
+        {
+          "client_id": "322600633232-m2i1p2eu2idpfnrtq5gocsemp85msc3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx2y5YrxXNDxcLbhW3QtZnYdxZwFckUXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322600633232-m2i1p2eu2idpfnrtq5gocsemp85msc3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
